@@ -25,11 +25,4 @@ game engine technology meets real business problems.
 
 ---
 
-## Stack
-
-Python · Unity · Three.js · Processing  
-HTML · CSS · WordPress · Shopify · Google Analytics · GitHub
-
----
-
 [ntmdigital.co](https://ntmdigital.co) · [LinkedIn](https://linkedin.com/in/tyler-mc-luckie-69b1a0108)
